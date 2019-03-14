@@ -1,0 +1,7 @@
+create table page_split_convert_rate(
+taskId Long,
+convertRate varchar(200)
+)charset utf8;
+
+{"targetPageFlow":["1,5,4,7,2,6,3"],"startDate":["2018-10-10"],"endDate":["2018-10-10"]}
+1_5=0.09|2_6=1.11|5_4=0.91|7_2=0.89|6_3=0.96|4_7=1.09
